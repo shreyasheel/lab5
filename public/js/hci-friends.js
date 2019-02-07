@@ -43,4 +43,16 @@ function anagrammedName(name) {
 		console.log(name + " not known for anagramming.");
 		return name;
 	}
+
+
+}
+
+
+
+
+function clickListener(name){
+
+	$(this).selector("Changed name")
+
+
 }
